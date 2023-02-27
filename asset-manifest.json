@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework-15-custom-hooks/static/css/main.9d48fc27.css",
+    "main.js": "/homework-15-custom-hooks/static/js/main.9f8b95c2.js",
+    "index.html": "/homework-15-custom-hooks/index.html",
+    "main.9d48fc27.css.map": "/homework-15-custom-hooks/static/css/main.9d48fc27.css.map",
+    "main.9f8b95c2.js.map": "/homework-15-custom-hooks/static/js/main.9f8b95c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d48fc27.css",
+    "static/js/main.9f8b95c2.js"
+  ]
+}
